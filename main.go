@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import (
+	"github.com/krognol/go-wolfram"
+)
 
-}
+var wolframClient *wolfram.Client
