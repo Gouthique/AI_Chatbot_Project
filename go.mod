@@ -1,7 +1,7 @@
 module github.com/Gouthique/AI_Chatbot_Project
 
 go 1.21.3
-
+s
 require (
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/joho/dotenv v2.2.0+incompatible // indirect
